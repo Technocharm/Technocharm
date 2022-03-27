@@ -19,6 +19,6 @@ Here are some ideas to get you started:
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocharm" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocharm&layout=compact" />
 </div> -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Technocharm&theme=buefy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Technocharm&theme=flag-india)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Technocharm&layout=compact)
 
