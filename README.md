@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 </div> -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Technocharm&theme=flag-india)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Technocharm&layout=compact)
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
