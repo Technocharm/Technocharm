@@ -18,7 +18,10 @@ Here are some ideas to get you started:
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocharm" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocharm&layout=compact" />
 </div> -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Technocharm&theme=flag-india)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Technocharm&theme=flag-india) -->
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Technocharm&layout=compact) -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocharm&layout=compact">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<br>
+<br>
+<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocharm&theme=flag-india&layout=compact">
