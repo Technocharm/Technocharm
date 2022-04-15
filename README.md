@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Technocharm&theme=buefy&show_icons=true&count_private=true) 
-<img align="right" width="300" src="img.jpg">
+<img align="right" width="300" src="psyc.jpg">
 <!-- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocharm" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocharm&layout=compact" />
