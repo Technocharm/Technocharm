@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <!-- <br>
 <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocharm&theme=flag-india&layout=compact"> -->
+<br>
 ![Snake animation](https://github.com/Technocharm/Technocharm/blob/output/github-contribution-grid-snake.svg)
